@@ -16,6 +16,6 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6843128&isnumber=68
 
 ### NOTE
 
-If you use this ns-3 model for accademic purpose, authors appreciate if you cite both mentioned papers.
+If you use this simulator for accademic purpose, authors appreciate if you cite both mentioned papers.
 
 ### The module was not completed.
